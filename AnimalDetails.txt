@@ -1,0 +1,3 @@
+Bird,Ralph,4,yellow,0.5,30.0,Parrot
+Fish,Goldy,2,Gold,0.2,Freshwater,Goldfish
+Lion,Simba,5,Golden,190.0,30.0
